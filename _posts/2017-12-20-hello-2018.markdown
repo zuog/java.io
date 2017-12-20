@@ -1,9 +1,9 @@
 ---
 layout:     post
-title:      "Welcome to ZuoG Blog"
+title:      "Welcome to 左铅右椠 Blog"
 subtitle:   " \"Hello World, Hello Blog\""
 date:       2017-12-20 15:00:00
-author:     "ZuoG"
+author:     "左铅右椠"
 header-img: "img/post-bg-2015.jpg"
 tags:
     - 生活
